@@ -379,51 +379,6 @@ figcaption {
         display: flex;
         flex-direction: column;
     }
-    /* .box {
-        display: grid;
-        grid-template-areas: 'a b'
-                             'c d'
-                             'e f';
-    } */
-
-    
-
-    /* .img-2 {
-        display: flex;
-        flex-direction: column;
-        grid-area: b;
-    }
-
-    .img-3 {
-        display: flex;
-        flex-direction: column;
-        grid-area: c;
-    }
-
-    .img-4 {
-        display: flex;
-        flex-direction: column;
-        grid-area: d;
-    }
-
-    .img-5 {
-        display: flex;
-        flex-direction: column;
-        grid-area: e;
-    }
-
-    .img-6 {
-        display: flex;
-        flex-direction: column;
-        grid-area: f;
-    } */
-
-/* 
-    .img-1 figcaption {
-        grid-area: f;
-    } */
-
-
 }
 
 @media (min-width: 80rem) {
